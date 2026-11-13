@@ -1,3 +1,4 @@
+*(Created by [Mistral Vibe Code](mistral.ai))*
 # AI World - Simulation 2D d'IA autonomes
 
 ## 🌍 Description
